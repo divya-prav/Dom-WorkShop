@@ -1,0 +1,22 @@
+.container{
+    background-color: #91C8E4;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding : 10% 5%;
+}
+
+.heading{
+    text-align: center;
+    padding:  10px;;
+}
+
+.horizontal{
+    width :20%;
+    margin: 10px;
+
+}
+li{
+    padding:5px;
+}
